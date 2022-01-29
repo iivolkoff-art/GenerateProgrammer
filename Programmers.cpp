@@ -1,6 +1,5 @@
 ﻿#include <iostream>
 #include <chrono>
-#include <cmath>
 
 using namespace std;
 
